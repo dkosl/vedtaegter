@@ -1,22 +1,20 @@
-**Vedtægt**
+**Vedtægter**
 
 **for**
 
-**Foreningen af Danske Open Source Leverandører**
-
-**(Open Source Netværket)**
+**Danske Open Source Leverandører**
 
 **som vedtaget den 28. maj 2025**
 
 ## 1. NAVN, HJEMSTED OG FORMÅL
 
-Foreningens navn er Foreningen af Danske Open Source Leverandører, og hjemstedet er København.
+Foreningens navn er Danske Open Source Leverandører, og hjemstedet er København.
 
-Foreningens adresse er: dkosl.dk
+Foreningens adresse er: dosl.dk
 
 Foreningen har til formål at medvirke til at skabe et marked for digitale løsninger, der er baseret på open source-principper og -kode for derigennem at øge den digitale suverænitet.
 
-Foreningen skal med samme formål deltage i internationale netværk og sammenhænge, herunder APELL (Association Professionnelle Européenne du Logiciel Libre) eller: European Open Source Software Business Association, der er paraplyorganisationen for de nationale open source-foreninger i Europa.
+Bestyrelsen får mandat til at beslutte om foreningen skal indmeldes i internationale netværk og sammenhænge, fx APELL (Association Professionnelle Européenne du Logiciel Libre) eller: European Open Source Software Business Association, der er paraplyorganisationen for de nationale open source-foreninger i Europa.
 
 Definitionen af open source software refererer til The Open Source Definition, således som denne til enhver tid formuleres af Open Source Initiative (OSI).
 
@@ -29,9 +27,9 @@ Som medlem kan optages virksomheder og organisationer, der leverer open source s
 - open source software konsulenter, herunder revisorer og advokater,
 - leverandører af support og videreudvikling til open source software
 
-Som medlemmer kan alene optages virksomheder og organisationer, som kan dokumentere over for bestyrelsen, at disse har en omsætning, der vedrører leverance af open source-løsninger, eller at virksomheden/organisationen arbejder for at fremme open source som forretningsmodel. En hensigtserklæring om open source-leverancer er ikke tilstrækkeligt til at opnå medlemskab.
+Som medlemmer kan alene optages virksomheder og organisationer, der har en eller flere konkrete leverancer af open source-løsninger, eller virksomheder, der arbejder for at fremme open source som forretningsmodel. 
 
-Bestyrelsen træffer beslutning om optagelse af medlemmer i enighed. Er et bestyrelsesmedlem imod optagelse af et medlem, sker optagelsen ikke. Afvisning af medlemskab kan bringes op af den afviste virksomhed på næstkommende ordinære generalforsamling.  
+Bestyrelsen træffer beslutning om optagelse af medlemmer via et kvalificeret flertal på 2/3-dele af bestyrelsen. Afslag til ansøgende medlemsvirksomheder skal være motiverede. Afvisning af medlemskab kan bringes op af den afviste virksomhed på næstkommende ordinære generalforsamling.  
 
 #### Udmeldelse og eksklusion  
 
@@ -59,9 +57,9 @@ Medlemsdata behandles i henhold til GDPR, og data slettes ved udmeldelse.
 
 Foreningens daglige ledelse varetages af en bestyrelse på mindst 3 og højst 5 medlemmer valgt på generalforsamlingen for 2 år ad gangen. Derudover har generalforsamlingen mulighed for at vælge op til 2 suppleanter, der vælges som hhv. 1. og 2. suppleant. 
 
-Generalforsamlingen udpeger formanden samt en kasserer, der ikke må være samme person. Kassereren kan være medlem af bestyrelsen. Dette er ikke et krav og besluttes af generalforsamlingen. 
+Generalforsamlingen udpeger forpersonen samt en kasserer, der ikke må være samme person. Kassereren kan være medlem af bestyrelsen. Dette er ikke et krav og besluttes af generalforsamlingen. 
 
-Bestyrelsen konstituerer umiddelbart efter generalforsamlingen sig selv med næstformand og sekretær. Sekretæren fungerer som referent på bestyrelsesmøderne, medmindre andet besluttes på det pågældende møde. 
+Bestyrelsen konstituerer umiddelbart efter generalforsamlingen sig selv med næstforperson og sekretær. Sekretæren fungerer som referent på bestyrelsesmøderne, medmindre andet besluttes på det pågældende møde. 
 
 Generalforsamlingen kan beslutte at udpege en revisor, der reviderer foreningens regnskab. Foreningens begrænsede økonomi taget i betragtning er dette ikke et krav. 
 
@@ -73,13 +71,13 @@ Bestyrelsen varetager foreningens tarv udadtil og indadtil. Det påhviler herund
 
 #### Bestyrelsesarbejdet  
 
-Bestyrelsen fastsætter selv sin forretningsorden. Bestyrelsesmøde afholdes, når formanden finder det fornødent, eller 2 bestyrelsesmedlemmer kræver det. Som udgangspunkt afholdes der et bestyrelsesmøde en gang i kvartalet.
+Bestyrelsen fastsætter selv sin forretningsorden. Bestyrelsesmøde afholdes, når forpersonen finder det fornødent, eller 2 bestyrelsesmedlemmer kræver det. Som udgangspunkt afholdes der et bestyrelsesmøde en gang i kvartalet.
 
 Indkaldelse finder sted skriftligt med angivelse af dagsorden og med minimum 14 dages varsel, medmindre samtlige bestyrelsesmedlemmer skriftligt tilkendegiver deres accept af en kortere tidsfrist.
 
-Over bestyrelsesmøderne føres beslutningsreferat, som underskrives af formanden eller næstformanden og referenten.
+Over bestyrelsesmøderne føres beslutningsreferat, som underskrives af forpersonen eller næstforpersonen og referenten.
 
-Bestyrelsen varetager foreningens daglige ledelse. Bestyrelsen træffer beslutning ved simpel stemmeflerhed, men er kun beslutningsdygtig, når halvdelen af de valgte bestyrelsesmedlemmer er repræsenteret og mindst enten formand eller næstformand. Ved stemmelighed er formandens eller den fungerende formands stemme udslagsgivende.
+Bestyrelsen varetager foreningens daglige ledelse. Bestyrelsen træffer beslutning ved simpel stemmeflerhed, men er kun beslutningsdygtig, når halvdelen af de valgte bestyrelsesmedlemmer er repræsenteret og mindst enten forperson eller næstforperson. Ved stemmelighed er forpersonens eller den fungerende forpersons stemme udslagsgivende.
 
 Deltager et bestyrelsesmedlem i konferencer, arrangementer og tilsvarende i ind- og udland, sker det som udgangspunkt for egen regning, ligesom der heller ikke er vederlag, diæter, kørselsgodtgørelse og lignende.
 
@@ -123,7 +121,7 @@ Regnskabet skal før den ordinære generalforsamling være gennemgået af den af
 
 Kassereren opkræver foreningens indtægter og sikrer, at foreningens midler bliver indsat på en foreningsbankkonto.
 
-I økonomiske dispositioner kræves kasserer og ét bestyrelsesmedlem, hvoraf mindst én er formand eller næstformand.
+I økonomiske dispositioner kræves kasserer og ét bestyrelsesmedlem, hvoraf mindst én er forperson eller næstforperson.
 
 Kassereren fører regnskab over samtlige indtægter og udgifter i en sådan form, at foreningens øjeblikkelige økonomiske stilling altid kan aflæses heri. Kassereren udarbejder foreningens årsregnskab.
 
